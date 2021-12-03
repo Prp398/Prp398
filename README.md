@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @Prp398
+- 👀 I’m interested in ... cofounder for tech startup
+- 🌱 I’m currently learning ... Businesses
+- 💞️ I’m looking to collaborate on ... Company's managements
+- 📫 How to reach me ... prithvirp0@gmail.com / +91-9881118056
+
+<!---
+Prp398/Prp398 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
